@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="associate-homepage.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+</head>
+<body>
+    <div id="assignment-image-modal" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content">
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+    </div>
+    <div id="associate-homepage-grid-container">
+        <nav>
+            <h1>Welcome to the Admin homepage</h1>
+            <button id="logout">Logout</button>
+        </nav>
+
+        <div id="assignments">
+            <h2>Assignments</h2>
+            <table id="assignment-table">
+                <thead>
+                    <tr>
+                        <th>id</th>
+                         <th>type</th>
+                        <th>amount</th>
+                        <th>status</th>
+                        <th>timestamp</th>   
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+
+        <div id="assignment-submit-form">
+            
+
+            <div>
+
+                <button id="all">All-Records</button>
+                <button id="approved">Approved-Records</button>
+                <button id="denied">Denied-Records</button>
+                <button id="pending">Pending-Records</button>
+                 <!-- <script src="admin.js"></script> -->
+                
+            </div>
+            
+        </div>
+    </div>
+   <!-- <script src="regular2.js"></script> -->
+</body>
+</html>

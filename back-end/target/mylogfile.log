@@ -1,0 +1,31 @@
+05 Dec 2021 - 23:19:25.643 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @1234ms to org.eclipse.jetty.util.log.Slf4jLog
+05 Dec 2021 - 23:19:25.669 [main] INFO  io.javalin.Javalin - Static file handler added: StaticFileConfig(hostedPath=/, directory=static, location=CLASSPATH, precompress=false, aliasCheck=null, headers={Cache-Control=max-age=0}, skipFileFunction=Function1<javax.servlet.http.HttpServletRequest, java.lang.Boolean>). File system location: 'jar:file:/home/gamal/Documents/revature/reimbursement/target/reimbursement-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/static'
+05 Dec 2021 - 23:19:25.799 [main] INFO  io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+05 Dec 2021 - 23:19:25.800 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+05 Dec 2021 - 23:19:25.824 [main] INFO  io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+05 Dec 2021 - 23:19:25.982 [main] ERROR io.javalin.Javalin - Failed to start Javalin
+05 Dec 2021 - 23:19:25.983 [main] INFO  io.javalin.Javalin - Stopping Javalin ...
+05 Dec 2021 - 23:19:25.993 [main] INFO  io.javalin.Javalin - Javalin has stopped
+05 Dec 2021 - 23:20:01.536 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @257ms to org.eclipse.jetty.util.log.Slf4jLog
+05 Dec 2021 - 23:20:01.553 [main] INFO  io.javalin.Javalin - Static file handler added: StaticFileConfig(hostedPath=/, directory=static, location=CLASSPATH, precompress=false, aliasCheck=null, headers={Cache-Control=max-age=0}, skipFileFunction=Function1<javax.servlet.http.HttpServletRequest, java.lang.Boolean>). File system location: 'jar:file:/home/gamal/Documents/revature/reimbursement/target/reimbursement-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/static'
+05 Dec 2021 - 23:20:01.606 [main] INFO  io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+05 Dec 2021 - 23:20:01.607 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+05 Dec 2021 - 23:20:01.616 [main] INFO  io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+05 Dec 2021 - 23:20:01.728 [main] INFO  io.javalin.Javalin - Listening on http://localhost:8081/
+05 Dec 2021 - 23:20:01.729 [main] INFO  io.javalin.Javalin - Javalin started in 123ms \o/

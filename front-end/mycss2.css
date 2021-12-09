@@ -1,0 +1,20 @@
+th,td{ padding : 5px;
+       border : 1px solid black;
+    text-align: center;}
+    b{text-align: center;}
+    
+#assignments{margin: auto}
+n{background-color: white;
+    text-align : center;}
+#mydiv{ display:block;
+       margin-top : 50px;
+        height:200;
+        width:200;
+    }
+#m{display: table;
+  background-color: white ;
+  text-align: center;
+  padding: 10px;
+  margin:auto;
+  border: 1px solid black;
+   }
