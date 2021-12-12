@@ -30,16 +30,16 @@
 
 - Employee can logout
 
-- Manager can login into the manager Homepage
+- Admin can login into the manager Homepage
 
-- Manager can view all the reimbursements
+- Admin can view all the reimbursements
 
-- Manager can filter the status
+- Admin can filter the status
 
-- Manager can approve/deny pending reimbursement request
+- Admin can approve/deny pending reimbursement request
 
-- Manager can view the receipt image
+- Admin can view the receipt image
 
-- Manager can log out
+- Admin can log out
 
 
