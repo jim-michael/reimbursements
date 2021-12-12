@@ -10,6 +10,7 @@
 - Html
 - Junit Testing
 - Selenium Testing
+- Postgres Database
 
 
 ## Program Description
