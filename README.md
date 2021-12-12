@@ -8,7 +8,10 @@
 - Pom.XML
 - CSS
 - Html
-- 
+- Junit Testing
+- Selenium Testing
+
+
 ## Program Description
 
 - Employee will be able to log in
