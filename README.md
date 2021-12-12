@@ -1,6 +1,6 @@
 # Reimbursements
 ## Reimbursements
-### Technology uses:
+### Technology used :
 - Java 8
 - JavaScript
 - Javalin Server
