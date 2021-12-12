@@ -1,5 +1,5 @@
-# reimbursements
-## reimbursements
+# Reimbursements
+## Reimbursements
 ### Technology uses:
 - Java 8
 - JavaScript
