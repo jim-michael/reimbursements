@@ -5,6 +5,7 @@
 - JavaScript
 - Javalin Server
 - Maven project
+- Pom.XML
 - CSS
 - Html
 
