@@ -16,19 +16,19 @@
 
 - Employee will be able to log in
 
-- Employee will be redirected to the emplyee's homepage after loging
+- User will be redirected to the emplyee's homepage after loging
 
-- Employee will be able to view all the information that belongs to that employee
+- User will be able to view all the information that belongs to that employee
 
-- Employee will not be able to see other employee's information
+- User will not be able to see other employee's information
 
-- Employee will be able to upload and submit a receipt for the reimbursement
+- User will be able to upload and submit a receipt for the reimbursement
 
-- Employee can search the status of the reimbursement
+- User can search the status of the reimbursement
 
-- Employee can see the image of the receipt
+- User can see the image of the receipt
 
-- Employee can logout
+- User can logout
 
 - Admin can login into the manager Homepage
 
